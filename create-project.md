@@ -33,7 +33,7 @@ $ rake build # for building (and deployment)
   - _config_localhost.yml
   - _config.yml
   - gen.sh
-  - README.md
+  - README.md (include Travis-CI icon)
   - index.html
   - socials.yml
   - .travis.yml
